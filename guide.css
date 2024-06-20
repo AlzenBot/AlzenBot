@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.command {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.command h2 {
+    margin-top: 0;
+}
+
+.command p {
+    margin: 5px 0;
+}
+
+.command code {
+    background-color: #f1f1f1;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
