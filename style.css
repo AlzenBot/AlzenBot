@@ -15,7 +15,7 @@ body {
     height: auto;
     display: block;
     margin: 0 auto 20px; /* Centre le logo et ajoute de l'espace en dessous */
-    animation: spin 10s linear infinite; /* Applique l'animation */
+    animation: zoom 10s linear infinite; /* Applique l'animation */
 }
 /* Animation de rotation */
 @keyframes zoom {
