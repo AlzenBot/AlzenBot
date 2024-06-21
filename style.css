@@ -3,6 +3,14 @@ html, body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
 }
+body {
+    background-image: url('https://cdn.discordapp.com/avatars/1245388083055169648/dc17a02cf91b998cd6f31d82b30c86cd.png?size=128');
+    background-color: #f0f0f0; /* Couleur de fond de secours */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* background-attachment: fixed; */ /* Pour que l'image reste fixe pendant le défilement */
+}
 
 body {
     font-family: 'Arial', sans-serif;
