@@ -164,10 +164,6 @@ header p {
     text-align: center;
 }
 
-.center-text {
-    text-align: center;
-}
-
 .faq ul {
     list-style-type: none;
     padding: 0;
@@ -177,4 +173,9 @@ header p {
 
 .faq li {
     font-size: 1.1rem;
-    margin-bottom: 
+    margin-bottom:
+}
+
+.center-text {
+    text-align: center;
+}
