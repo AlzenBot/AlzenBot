@@ -66,6 +66,27 @@ header p {
     margin-bottom: 1.5rem;
 }
 
+/* Navigation */
+nav {
+    background-color: #444;
+    padding: 1em 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
 .btn {
     display: inline-block;
     background-color: #4CAF50;
